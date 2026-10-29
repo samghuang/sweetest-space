@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "npm test",
+  "outputDirectory": "dist"
+}
