@@ -2,6 +2,8 @@
 
 Quick start: `npm test`, `npm run preview` (then open http://127.0.0.1:4173), `npm run build`. No install needed (Node + Python 3 only). Claude Code instructions live in `CLAUDE.md`.
 
+Deploy: Vercel serves `dist/` as a static site and runs `npm test` as the build step (see `vercel.json`). `npm run build` only makes the standalone gift in `release/`; it is not the website.
+
 # Worth the Detour — Claude handoff
 
 Read HANDOFF.md first for the full project context and established preferences.
