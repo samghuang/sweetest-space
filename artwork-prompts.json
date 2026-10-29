@@ -1,0 +1,135 @@
+{
+ "method": "Built-in image-generation tool",
+ "style": "Ink illustrations on ivory paper; both people included with faces out of view. Dinner uses an overhead view.",
+ "pieces": [
+  {
+   "n": 1,
+   "prompt": "Use case: compositing. Asset: one landscape 3:2 ink illustration for an existing museum game. Input 1 is the existing artwork to edit; input 2 is the sketchbook STYLE reference only (do not reproduce the book, table, spiral binding or words); inputs 3–4 are photos of the woman for hair and silhouette reference; input 5 is the man reference. Ignore all phone UI and profile text. Add BOTH of these adult people together, always turned entirely away from the viewer: backs of heads only, no eyes, nose, mouths or facial profiles. Match their natural builds and hair from the photos. Consistent clothing across all five artworks: the man wears the photo’s loose black short sleeve T-shirt, light gray shorts, white socks and white trainers, with a dark crossbody strap; the woman has long dark hair down her back and wears the light sleeveless floral midi dress and white sneakers from input 3. These are illustrated people in the same fine black-brown pen linework, loose crosshatching and warm ivory paper as the original artwork, NOT pasted photographs. Preserve architectural setting, existing ink style, warm paper, thin drawn rectangular border, landscape 3:2 format. No caption, no watermark, no collage, no frame mockup. Keep the pair consistent, naturally proportioned, standing/seated close together; no extra people. \nScene: Looking Together: Add the couple walking side by side away from the viewer through the gallery, looking at the framed artworks ahead. Place them in the mid foreground where they are clearly recognizable by silhouettes, in proper scale to the doors. Keep the wood floor, white walls, art and perspective.",
+   "refinements": [
+    "Precise local edit of this existing ink drawing. The couple have NOT held hands. Change ONLY their hands and, if necessary, the immediate forearm poses so they are clearly NOT holding hands or touching. Both people continue walking side by side, viewed from behind. Let their inner arms hang naturally at their own sides, with a clearly visible small gap between the man's right hand and woman's left hand. Each has a distinct relaxed hand, no connected fingers, no touching arms, no linked elbows. Keep both people's positions, builds, hair, clothing, shoes, walking poses, the entire architectural background, framing, border, warm ivory paper and black-brown pen crosshatching unchanged. Do not add any other gesture or affectionate contact. Same 3:2 landscape composition. No text.",
+    "Correct this illustration: the two people MUST NOT HOLD HANDS. Put the MAN'S RIGHT HAND fully inside his own right shorts pocket, with his right elbow slightly bent and forearm leading INTO his shorts pocket. His right hand is therefore HIDDEN in his pocket and CANNOT TOUCH the woman. The WOMAN'S LEFT ARM hangs separately at her left side, with her left hand visibly resting beside her own dress. Move the woman a small distance to the right if necessary, leaving a clear strip of visible floor/background between their bodies and arms. NO touching, linked fingers, linked elbows or arms around each other. This hand-in-pocket pose is the main change. Keep their backs toward viewer, same hair, clothing, shoes, natural walking, architecture and background, warm ivory paper, fine pen crosshatching, thin border and 3:2 composition. Do not preserve any handholding from the input."
+   ]
+  },
+  {
+   "n": 2,
+   "prompt": "Use case: compositing. Asset: one landscape 3:2 ink illustration for an existing museum game. Input 1 is the existing artwork to edit; input 2 is the sketchbook STYLE reference only (do not reproduce the book, table, spiral binding or words); inputs 3–4 are photos of the woman for hair and silhouette reference; input 5 is the man reference. Ignore all phone UI and profile text. Add BOTH of these adult people together, always turned entirely away from the viewer: backs of heads only, no eyes, nose, mouths or facial profiles. Match their natural builds and hair from the photos. Consistent clothing across all five artworks: the man wears the photo’s loose black short sleeve T-shirt, light gray shorts, white socks and white trainers, with a dark crossbody strap; the woman has long dark hair down her back and wears the light sleeveless floral midi dress and white sneakers from input 3. These are illustrated people in the same fine black-brown pen linework, loose crosshatching and warm ivory paper as the original artwork, NOT pasted photographs. Preserve architectural setting, existing ink style, warm paper, thin drawn rectangular border, landscape 3:2 format. No caption, no watermark, no collage, no frame mockup. Keep the pair consistent, naturally proportioned, standing/seated close together; no extra people. \nScene: The Space Between Galleries: Add the couple in the foreground on the walkway, backs toward the viewer, quietly looking toward the white interior dome. Both full or three-quarter bodies visible. Keep glass railing, white dome, branching steel supports and canopy, as in the existing art. Do not change it to an outdoor dome.",
+   "refinements": []
+  },
+  {
+   "n": 3,
+   "prompt": "Use case: compositing. Asset: one landscape 3:2 ink illustration for an existing museum game. Input 1 is the existing artwork to edit; input 2 is the sketchbook STYLE reference only (do not reproduce the book, table, spiral binding or words); inputs 3–4 are photos of the woman for hair and silhouette reference; input 5 is the man reference. Ignore all phone UI and profile text. Add BOTH of these adult people together, always turned entirely away from the viewer: backs of heads only, no eyes, nose, mouths or facial profiles. Match their natural builds and hair from the photos. Consistent clothing across all five artworks: the man wears the photo’s loose black short sleeve T-shirt, light gray shorts, white socks and white trainers, with a dark crossbody strap; the woman has long dark hair down her back and wears the light sleeveless floral midi dress and white sneakers from input 3. These are illustrated people in the same fine black-brown pen linework, loose crosshatching and warm ivory paper as the original artwork, NOT pasted photographs. Preserve architectural setting, existing ink style, warm paper, thin drawn rectangular border, landscape 3:2 format. No caption, no watermark, no collage, no frame mockup. Keep the pair consistent, naturally proportioned, standing/seated close together; no extra people. \nScene: A Very Thorough Search: Add the couple strolling away from the viewer along the pavement beside the National Gallery facade, on their unnecessary search for dinner. Keep the grand columns and distant dome, but slightly reframe if necessary so the couple is visibly present and not tiny specks. Show backs of both heads and bodies.",
+   "refinements": [
+    "Precise local edit of this existing ink drawing. The couple have NOT held hands. Change ONLY their hands and, if necessary, the immediate forearm poses so they are clearly NOT holding hands or touching. Both people continue walking side by side, viewed from behind. Let their inner arms hang naturally at their own sides, with a clearly visible small gap between the man's right hand and woman's left hand. Each has a distinct relaxed hand, no connected fingers, no touching arms, no linked elbows. Keep both people's positions, builds, hair, clothing, shoes, walking poses, the entire architectural background, framing, border, warm ivory paper and black-brown pen crosshatching unchanged. Do not add any other gesture or affectionate contact. Same 3:2 landscape composition. No text.",
+    "Correct this illustration: the two people MUST NOT HOLD HANDS. Put the MAN'S RIGHT HAND fully inside his own right shorts pocket, with his right elbow slightly bent and forearm leading INTO his shorts pocket. His right hand is therefore HIDDEN in his pocket and CANNOT TOUCH the woman. The WOMAN'S LEFT ARM hangs separately at her left side, with her left hand visibly resting beside her own dress. Move the woman a small distance to the right if necessary, leaving a clear strip of visible floor/background between their bodies and arms. NO touching, linked fingers, linked elbows or arms around each other. This hand-in-pocket pose is the main change. Keep their backs toward viewer, same hair, clothing, shoes, natural walking, architecture and background, warm ivory paper, fine pen crosshatching, thin border and 3:2 composition. Do not preserve any handholding from the input."
+   ]
+  },
+  {
+   "n": 4,
+   "prompt": "Use case: compositing. Asset: one landscape 3:2 ink illustration for an existing museum game. Input 1 is the existing artwork to edit; input 2 is the sketchbook STYLE reference only (do not reproduce the book, table, spiral binding or words); inputs 3–4 are photos of the woman for hair and silhouette reference; input 5 is the man reference. Ignore all phone UI and profile text. Add BOTH of these adult people together, always turned entirely away from the viewer: backs of heads only, no eyes, nose, mouths or facial profiles. Match their natural builds and hair from the photos. Consistent clothing across all five artworks: the man wears the photo’s loose black short sleeve T-shirt, light gray shorts, white socks and white trainers, with a dark crossbody strap; the woman has long dark hair down her back and wears the light sleeveless floral midi dress and white sneakers from input 3. These are illustrated people in the same fine black-brown pen linework, loose crosshatching and warm ivory paper as the original artwork, NOT pasted photographs. Preserve architectural setting, existing ink style, warm paper, thin drawn rectangular border, landscape 3:2 format. No caption, no watermark, no collage, no frame mockup. Keep the pair consistent, naturally proportioned, standing/seated close together; no extra people. \nScene: You Served Me: Recompose the existing close-up into a wider view from behind BOTH people, seated adjacent side by side at the near edge of a Korean BBQ table. Both backs of heads and shoulders fully visible; both face away toward the table. The woman reaches across to serve a piece of pork onto the man’s plate with chopsticks. Natural two arms per person and plausible hands. The table beyond them includes two pork dishes, steamed egg in a bowl, chive pancake and octopus. Retain the glass-enclosed indoor tree in the restaurant background. No front-facing person or visible facial profile. The caring serving gesture must read clearly.",
+   "refinements": [
+    "Edit this ink illustration to correct seating. They were seated OPPOSITE one another across a SQUARE Korean BBQ table, NOT next to each other. Recompose from a steep overhead, slightly oblique angle looking down, so the full square tabletop is clearly visible with one chair at the near edge and the other at the opposite far edge, no chairs on adjacent sides. Woman on far side serving pork with chopsticks across the table onto man's plate at near side. Both look DOWN at plates: viewer sees hair crowns and backs of heads, NO faces, no eyes, no facial features. Preserve same man (short dark hair, black loose T-shirt, light gray shorts, dark crossbody strap) and same woman (long dark hair, light sleeveless floral dress). Natural human anatomy with two arms each. Keep square table with central round grill, pork, steamed egg, chive pancake, octopus, shared side dishes. Preserve warm ivory paper, fine black-brown crosshatched pen style and thin rectangular border. Landscape 3:2 single illustration. Same indoor Korean restaurant with glass enclosed tree hinted at edge/background. No writing or captions. The two people must be unmistakably on opposite sides of the square table; faceless high angle is more important than seeing the background.",
+    "Edit this dinner illustration to remove the eerie hair-over-face appearance. Recompose as a TRUE DIRECTLY OVERHEAD bird’s-eye drawing looking vertically DOWN at the square table and the tops of both heads. The woman sits on the far side and the man on the opposite near side. Her head is upright in a relaxed natural posture, looking toward the food; her long dark hair is swept BACK away from her face and flows down her BACK behind her shoulders and over her chair. Absolutely no hair draped across her face, no hanging head, no curtain of hair in front, no horror imagery. Since the camera is straight above, only her hair crown/top of head is visible, not facial features. Same treatment for man: crown/top and shoulders, no face. Keep the affectionate action of her extending chopsticks across the central grill to place pork on his plate. Preserve two adults on OPPOSITE sides of clearly square table, black T-shirt and gray shorts on man, light floral sleeveless dress on woman, naturally proportioned bodies and arms. Preserve pork, steamed egg, chive pancake, octopus and shared sides. Make composition warm and relaxed. Fine black-brown ink crosshatching on warm ivory paper, thin hand-drawn border, 3:2 landscape. No text. Shift camera and pose as needed; priority is a natural, non-eerie woman with her hair down her back and facial anonymity achieved by overhead camera angle alone.",
+    "Precise edit of input 1, the overhead ink dinner illustration. Input 2 is a serving vessel reference ONLY, ignore its UI and meat identity. REMOVE the circular built-in grill completely: no hole, no burner, no flames, no grill inset into table. Replace it with continuous normal wood tabletop and TWO separate shallow rectangular BLACK SERVING PLATES/TRAYS with small silver wire racks resting on top, like reference photo. These are tabletop serving dishes holding already-cooked pork pieces, not cooking appliances. One tray with sliced pork belly, one with other cooked pork cuts, small shared portions arranged naturally among existing sides. The woman is serving a piece of pork from the nearer serving tray onto the man’s plate with chopsticks. Keep EVERYTHING ELSE: square table, two people seated across from one another on opposite sides, top-down overhead composition showing hair crowns instead of facial features, her hair naturally swept back down her back not hanging over face, man black T-shirt and gray shorts, woman floral sleeveless dress, steamed egg, chive pancake, octopus and side dishes. Preserve fine black-brown crosshatched ink illustration on warm ivory paper, thin border, 3:2 landscape. Reduce food color washes to subtle warm sepia/very restrained color so it matches a pen sketch. No captions, no watermarks. Key change: NO IN-TABLE GRILL, exactly two separate rectangular rack-topped serving platters on unbroken wooden table."
+   ]
+  },
+  {
+   "n": 5,
+   "prompt": "Use case: compositing. Asset: one landscape 3:2 ink illustration for an existing museum game. Input 1 is the existing artwork to edit; input 2 is the sketchbook STYLE reference only (do not reproduce the book, table, spiral binding or words); inputs 3–4 are photos of the woman for hair and silhouette reference; input 5 is the man reference. Ignore all phone UI and profile text. Add BOTH of these adult people together, always turned entirely away from the viewer: backs of heads only, no eyes, nose, mouths or facial profiles. Match their natural builds and hair from the photos. Consistent clothing across all five artworks: the man wears the photo’s loose black short sleeve T-shirt, light gray shorts, white socks and white trainers, with a dark crossbody strap; the woman has long dark hair down her back and wears the light sleeveless floral midi dress and white sneakers from input 3. These are illustrated people in the same fine black-brown pen linework, loose crosshatching and warm ivory paper as the original artwork, NOT pasted photographs. Preserve architectural setting, existing ink style, warm paper, thin drawn rectangular border, landscape 3:2 format. No caption, no watermark, no collage, no frame mockup. Keep the pair consistent, naturally proportioned, standing/seated close together; no extra people. \nScene: A Little Longer: Recompose with the couple sitting next to each other on a wooden bench in the foreground, viewed directly from behind, facing the Funan entrance. Two KOI bubble tea cups with straws sit within reach beside them on the bench. Preserve recognisable Funan facade and canopy. Both backs of heads and relaxed shoulders visible. Warm quiet companionship, no invented handholding.",
+   "refinements": [
+    "Edit this memory artwork to correct the setting: the couple were sitting SIDE BY SIDE in an INDOOR BOOTH after buying KOI bubble tea, not an outdoor bench. Replace outdoor facade/pavement/bench composition with a cozy modern indoor mall seating booth, upholstered banquette with a backrest at mid-back height and a small cafe table directly in front of both of them. View them from directly behind so both backs of heads, shoulders and upper backs are visible above booth backrest, no facial features or profiles. Keep the exact same couple, clothing, long dark hair for woman, short dark hair and black T-shirt / crossbody strap for man. They sit close next to each other facing into the room, two KOI cups with straws clearly visible on their table beyond them, one for each. Subtle indoor mall cafe surroundings, overhead lights, pale walls and distant storefront suggestion. Entirely INSIDE, no street, no exterior entrance, no outdoor canopy, no trees. Preserve original fine black-brown pen crosshatching on warm ivory paper, thin rectangular drawn border, 3:2 landscape aspect ratio, no caption or watermark. Quiet affectionate moment, natural anatomy, no added handholding."
+   ]
+  }
+ ],
+ "relationship_constraint": "The couple have not held hands; do not depict handholding.",
+ "gallery02": {
+  "method": "Figma AI generate_image (gpt-image-2.5-sunburst), text prompts only, 1536x1024",
+  "style": "Fine black-brown pen linework, dense crosshatching, warm ivory/sepia paper, thin drawn border, faces never shown",
+  "pieces": [
+   {
+    "n": 6,
+    "title": "A Tea for You",
+    "prompt": "Man alone, seen from behind, in an MRT station convenience store taking a bottled peach tea from a glass-door drinks fridge, takeaway coffee in his other hand. First draft with her walking past was rejected: she had not arrived yet."
+   },
+   {
+    "n": 7,
+    "title": "Our First Photo",
+    "prompt": "Couple from behind on the Supertree walkway at hazy sunset, man raising a phone for their first photo; close but not touching."
+   },
+   {
+    "n": 8,
+    "title": "The Perfect Bite",
+    "prompt": "Tabletop view: his hand holds a spoon with a neat bite of linguine and salmon roe; her hand over her bowl; her face out of frame."
+   },
+   {
+    "n": 9,
+    "title": "Lost Track of Time",
+    "prompt": "Couple from behind side by side at a food court table, empty dessert bowl in front of him; not touching."
+   },
+   {
+    "n": 10,
+    "title": "Past My Stop",
+    "prompt": "Over-the-shoulder view from behind on a quiet MRT train; her head resting on his shoulder, her face hidden behind his head; no other contact."
+   }
+  ]
+ },
+ "gallery03": {
+  "method": "Figma AI generate_image (gpt-image-2.5-sunburst), text prompts only, 1536x1024",
+  "pieces": [
+   {
+    "n": 11,
+    "title": "Not Even Hungry",
+    "prompt": "Tabletop view from his seat: he lifts a big bite of dry mala stir-fry from a half-finished bowl; she takes one small bite from her bowl; a bubble-tea bag beside her; her face out of frame. Revised: one large shared bowl in the centre full of lotus root slices; each has a small bowl; both use chopsticks to move food from the shared bowl into their own."
+   },
+   {
+    "n": 12,
+    "title": "Strong Opinions",
+    "prompt": "Couple from behind in a homeware store; he holds up a patterned shirt, she laughs and points, teasing."
+   },
+   {
+    "n": 13,
+    "title": "The Most Captivating Piece",
+    "prompt": "Couple from behind in a white contemporary art gallery; she studies an abstract painting, his head turned toward her."
+   },
+   {
+    "n": 14,
+    "title": "Matching Bags",
+    "prompt": "Couple from behind at a bag shop counter, each holding up an identical black drawstring dumpling bag, no text."
+   },
+   {
+    "n": 15,
+    "title": "Next to You",
+    "prompt": "Couple from behind side by side at a hotpot table with a steaming divided pot; not touching."
+   }
+  ]
+ },
+ "gallery04": {
+  "method": "Figma AI generate_image (gpt-image-2.5-sunburst), text prompts only, 1536x1024",
+  "pieces": [
+   {
+    "n": 16,
+    "title": "Sambal Under Review",
+    "prompt": "Tabletop view from his seat at a hotel breakfast buffet: his plate piled with nasi lemak, sambal, peanuts and anchovies; she points teasingly from behind a tiny plate; her face out of frame."
+   },
+   {
+    "n": 17,
+    "title": "Very Patient",
+    "prompt": "Revised: high overhead view of the hotel room. He sits on the couch with his back to the window, facing into the room, head bowed over his laptop; she sits in the armchair to the left of the small side table. Only crowns of heads visible."
+   },
+   {
+    "n": 18,
+    "title": "The Saddest Ride",
+    "prompt": "From the back of a car: both on the rear seat seen from behind, he holds a small closed booklet; not touching."
+   },
+   {
+    "n": 19,
+    "title": "Always Too Short",
+    "prompt": "Airport check-in hall with kiosks and an indoor waterfall: the couple hugging, his back to viewer, her face hidden against his shoulder; no airline names."
+   },
+   {
+    "n": 20,
+    "title": "Every Word",
+    "prompt": "Business-class seat by the window, seen from behind: he reads a small spiral booklet and wipes his eye; no airline names."
+   }
+  ]
+ }
+}

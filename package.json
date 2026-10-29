@@ -1,0 +1,12 @@
+{
+  "name": "worth-the-detour",
+  "private": true,
+  "description": "A walkable museum of four dates. Static Three.js app; no dependencies.",
+  "scripts": {
+    "test": "node --check dist/app.js && node tests/motion.test.mjs && node tests/navigation.test.mjs && node tests/autopilot.test.mjs",
+    "preview": "python3 -m http.server 4173 --bind 127.0.0.1 --directory dist",
+    "build": "python3 tools/package-local.py",
+    "build:web": "python3 tools/package-web.py",
+    "check:flicker": "python3 tools/check-overlaps.py"
+  }
+}
