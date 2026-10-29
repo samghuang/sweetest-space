@@ -1,6 +1,6 @@
 const fake=()=>new Proxy(function(){}, {get:(t,k)=>k===Symbol.toPrimitive?()=>0:(k==='then'?undefined:fake()),apply:()=>fake(),set:()=>true,construct:()=>fake()});
 globalThis.document={querySelector:()=>fake(),querySelectorAll:()=>[],createElement:(t)=>({width:0,height:0,getContext:()=>fake(),style:{},addEventListener(){}}),addEventListener(){},createElementNS:()=>fake()};
-globalThis.matchMedia=()=>({matches:false});globalThis.localStorage={getItem:()=>null,setItem(){}};
+globalThis.matchMedia=()=>({matches:false});globalThis.location={hash:''};Object.defineProperty(globalThis,'navigator',{value:{maxTouchPoints:0},configurable:true});document.body={classList:{add(){},remove(){},toggle(){}}};globalThis.localStorage={getItem:()=>null,setItem(){}};
 globalThis.addEventListener=()=>{};globalThis.window=globalThis;globalThis.innerWidth=1200;globalThis.innerHeight=800;globalThis.devicePixelRatio=1;
 globalThis.requestAnimationFrame=()=>0;
 globalThis.Image=class{addEventListener(){} removeEventListener(){}};
